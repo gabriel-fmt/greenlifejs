@@ -16,7 +16,6 @@ Criar componentes de feedback interativo (toasts e modais).
 
 Garantir organização modular do código e estrutura de pastas limpa.
 
-📂 Estrutura de Pastas
 greenlifejs/
 │
 ├── index.html              # Ponto de entrada da SPA
@@ -33,6 +32,7 @@ greenlifejs/
 ├── img/                    # Imagens otimizadas
 │
 └── README.md               # Documentação do projeto
+
 
 🧱 Tecnologias Utilizadas
 
