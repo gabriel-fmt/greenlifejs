@@ -106,7 +106,7 @@ O projeto segue o princípio mobile-first, com breakpoints definidos para:
 
 Baixe o projeto ou clone o repositório:
 
-git clone https://github.com/seuusuario/greenlifejs.git
+git clone https://github.com/gabriel-fmt/greenlifejs
 
 
 Abra a pasta:
@@ -141,7 +141,6 @@ Responsividade e acessibilidade	✅
 Nome: Gabriel Ferreira de Matos
 Disciplina: Desenvolvimento Web — Projeto Prático
 Entrega: Etapa 3 — JavaScript, SPA e Templates
-Professor: (adicione o nome do professor, se necessário)
 
 💡 Observação
 
