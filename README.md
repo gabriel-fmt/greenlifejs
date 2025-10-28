@@ -1,3 +1,4 @@
+- Link Publico: https://gabriel-fmt.github.io/greenlifejs/
 🌱 GreenLifeJS
 
 Projeto desenvolvido para o trabalho da faculdade, com foco em HTML5 semântico, CSS3 avançado, design system, responsividade e JavaScript modular com SPA (Single Page Application).
